@@ -3,7 +3,7 @@ from huggingface_hub import InferenceClient
 import os
 import sys
 
-st.title("StrangerX AI")
+st.title("SHAKTHI AI")
 
 base_url="https://api-inference.huggingface.co/models/"
 
